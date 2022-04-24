@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Habib</h1>
 <h3 align="center">A young GEEK from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habiib1999" alt="habiib1999" /></a> </p>
-
 - 🔭 I’m currently working on **Yashfy - Graduation Project**
 
 - 👨‍💻 All of my projects are available at [My Github + Kaggle https://www.kaggle.com/habib66](My Github + Kaggle https://www.kaggle.com/habib66)
